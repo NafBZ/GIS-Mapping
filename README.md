@@ -14,9 +14,11 @@ Current rescue operation techniques for floods are not always quick and efficien
 
 *2. Predict flood risk using machine learning algorithm.*
 
-
+<img src = "Images/heat.PNG" width= "500" >
 
 *3. Construct a shortest-path algorithm.*
+
+
 *4. Derive a potential solution for a quicker flood rescue operation.*
 
 
