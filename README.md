@@ -1,12 +1,15 @@
-# GIS MAPPING AND SHORTEST-PATH ALGORITHM FOR DRONE-AIDED FLOOD RESCUE OPERATIONS
+# Final Year Project
 
-***Final Year Project***
+***Data-intelligent framework for smart flood rescue operation***
 
-**Problem Statement**
-
-Current rescue operation techniques for floods are not always quick and efficient as they should be.
 
 **Implementation**
+
+
+
+
+
+
 
 *1. A flood risk map using PCA, K-Means Algorithm and GIS.*
 
