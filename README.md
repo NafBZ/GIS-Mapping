@@ -7,11 +7,26 @@
 
 *Exploartory Data Analysis*
 
-<img src = "Images/popo.PNG" width= "500" >
+<p float="left">
+  <img src="Images/popo.png" width="200" />
+  <img src="Images/dist vs alt.png" width="350" />
+  <img src="Images/pop vs alt.png" width="350" />
+</p>
 
 
+*Principal Component Analysis*
+<p float="left">
+  <img src="Images/heats.eps" width="200" />
+  <img src="Images/1_Scree Plot.png" width="350" />
+</p>
 
+*Optimal K-value finding*
 
+<p float="left">
+  <img src="Images/Elbow.PNG" width="300" />
+  <img src="Images/Silhouette.png" width="300" />
+  <img src="Images/GapStat.png" width="300" />
+</p>
 
 *1. A flood risk map using PCA, K-Means Algorithm and GIS.*
 
