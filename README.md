@@ -5,7 +5,9 @@
 
 **Implementation**
 
+*Exploartory Data Analysis*
 
+<img src = "Images/popo.PNG" width= "500" >
 
 
 
