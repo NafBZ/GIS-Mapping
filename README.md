@@ -1,6 +1,6 @@
-# Final Year Project
 
-***Data-intelligent framework for smart flood rescue operation***
+
+# A data-intelligent Secured framework towards smart flood rescue operation
 
 
 **Implementation**
