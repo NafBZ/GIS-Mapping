@@ -49,10 +49,6 @@
 </p>
 
 
-**6.** *Construct a shortest-path algorithm.*
-
-<img src = "Images/bb.PNG" width= "500" >
-
 **7.** *Derive a potential solution for a quicker flood rescue operation.*
 
 <img src = "Images/result.PNG" width= "400" >
